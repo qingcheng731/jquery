@@ -1,4 +1,4 @@
-define( [//test cwl
+define( [//test cwl  hhhhhhh
 	"./core",
 	"./var/document",
 	"./var/rnothtmlwhite",
