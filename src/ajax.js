@@ -50,7 +50,7 @@ var
 	// Anchor tag for parsing the document origin
 	originAnchor = document.createElement( "a" );
 	originAnchor.href = location.href;
-
+//test
 // Base "constructor" for jQuery.ajaxPrefilter and jQuery.ajaxTransport
 function addToPrefiltersOrTransports( structure ) {
 
